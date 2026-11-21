@@ -1,3 +1,28 @@
+# CS 536 Final Project — GN-GAN Reproduction and Extension
+
+This repository is a fork of the official implementation of "Gradient Normalization for Generative Adversarial Networks" (ICCV 2021).
+
+## Project Overview
+
+We aim to reproduce selected GN-GAN experiments on CIFAR-10, compare GN-GAN with SN-GAN, and investigate a modification to improve training efficiency.
+
+## Team Members and Contributions
+
+| Member | GitHub Username | Responsibility |
+|---|---|---|
+| Member A | @zhaojlin | GN-GAN reproduction and environment setup |
+| Member B | TBD | SN-GAN baseline and comparison |
+| Member C | TBD | GN-GAN modification and extended experiments |
+
+Contributions will be updated as the project progresses.
+
+## Planned Experiments
+
+1. Reproduce GN-GAN on CIFAR-10.
+2. Compare GN-GAN with SN-GAN.
+3. Evaluate a modified GN-GAN in terms of FID, IS, training time, and GPU memory usage.
+
+
 # Gradient Normalization for Generative Adversarial Networks
 
 Yi-Lun Wu, Hong-Han Shuai, Zhi-Rui Tam, Hong-Yu Chiu

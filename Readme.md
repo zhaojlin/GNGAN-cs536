@@ -4,7 +4,9 @@ This repository is a fork of the official implementation of "Gradient Normalizat
 
 ## Project Overview
 
-We aim to reproduce selected GN-GAN experiments on CIFAR-10, compare GN-GAN with SN-GAN, and investigate a modification to improve training efficiency.
+Our goal is to reproduce the original GN-GAN, compare it with Spectral Normalization (SN-GAN), and investigate a modification to improve computational efficiency.
+
+We plan to focus on CIFAR-10 with the standard CNN architecture (DCGAN).
 
 ## Team Members and Contributions
 

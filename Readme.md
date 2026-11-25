@@ -13,7 +13,7 @@ We plan to focus on CIFAR-10 with the standard CNN architecture (DCGAN).
 | Member | GitHub Username | Responsibility |
 |---|---|---|
 | Member A | @zhaojlin | GN-GAN reproduction and environment setup |
-| Member B | TBD | SN-GAN baseline and comparison |
+| Member B | @mannan-ab | SN-GAN baseline and comparison |
 | Member C | TBD | GN-GAN modification and extended experiments |
 
 Contributions will be updated as the project progresses.
